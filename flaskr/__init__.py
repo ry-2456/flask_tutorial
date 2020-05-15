@@ -9,3 +9,4 @@ db = SQLAlchemy(app)
 
 # import flaskr.views
 from flaskr import views
+
